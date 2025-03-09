@@ -9,6 +9,6 @@ It may be the case that there is a lot of other random shit that is not actually
 
 Make sure to install black for jupyter `black[jupyter]` and seaborn.
 
-`WARNING: the dataset setup/tokenization is broken right now.`
+`WARNING: the dataset setup/tokenization is broken right now on ipynb. The working version is the cli .py file.`
 
 Look at my MATS submission from this project to see the results: https://docs.google.com/document/d/1lNZvZ4iIIMIFEMQ1KRmaP5HIMpJSTzdGIPMsmWBNI_w/edit?usp=sharing
